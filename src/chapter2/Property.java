@@ -12,6 +12,6 @@ public class Property {
 		System.out.println("Total Memory = " + rt.totalMemory()
 				+ " Free Memory = " + rt.freeMemory());
 		
-		//Test on Mac
+		//Test on Windows
 	}
 }
