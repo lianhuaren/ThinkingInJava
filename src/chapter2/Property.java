@@ -11,5 +11,7 @@ public class Property {
 		Runtime rt = Runtime.getRuntime();
 		System.out.println("Total Memory = " + rt.totalMemory()
 				+ " Free Memory = " + rt.freeMemory());
+		
+		//Test on Mac
 	}
 }
