@@ -1,4 +1,4 @@
-package chapter2;
+package c02;
 
 public class ThreeArguments {
 

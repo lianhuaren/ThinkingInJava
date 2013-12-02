@@ -1,6 +1,6 @@
 //: Property.java
 
-package chapter2;
+package c02;
 
 import java.util.*;
 
