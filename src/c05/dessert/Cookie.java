@@ -7,7 +7,7 @@ public class Cookie {
 		System.out.println("Cookie constructor");
 	}
 
-	void foo() {
+	protected void foo() {
 		System.out.println("foo");
 	}
 } // /:~
