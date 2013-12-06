@@ -4,7 +4,7 @@ package c05;
 
 // Comment the following, and uncomment the
 // subsequent line to change assertion behavior:
-import com.bruceeckel.tools.debug.*;
+import com.bruceeckel.tools.fordebug.*;
 
 // import com.bruceeckel.tools.*;
 public class TestAssert {
