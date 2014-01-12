@@ -35,6 +35,7 @@ public class Sequence {
 		public Object current() {
 			return o[i];
 		}
+		
 
 		public void next() {
 			if (i < o.length)
