@@ -16,6 +16,7 @@ class Hamster {
 	}
 }
 
+
 class Printer {
 	static void printAll(Enumeration e) {
 		while (e.hasMoreElements())
