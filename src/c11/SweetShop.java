@@ -26,7 +26,7 @@ public class SweetShop {
 		new Candy();
 		System.out.println("After creating Candy");
 		try {
-			Class.forName("Gum");
+			Class.forName("c11.Gum");
 		} catch (ClassNotFoundException e) {
 			e.printStackTrace();
 		}
