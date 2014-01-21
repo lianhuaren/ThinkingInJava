@@ -12,7 +12,7 @@ public class JabberClient {
 		// Passing null to getByName() produces the
 		// special "Local Loopback" IP address, for
 		// testing on one machine w/o a network:
-		InetAddress addr = InetAddress.getByName(null);
+		InetAddress addr = InetAddress.getByName("ylyan-3500");
 		// Alternatively, you can use
 		// the address or name:
 		// InetAddress addr =
