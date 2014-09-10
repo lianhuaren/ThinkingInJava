@@ -9,4 +9,4 @@ public class ListCharacters {
 			if (c != 26) // ANSI Clear screen
 				System.out.println("value: " + (int) c + " character: " + c);
 	}
-} // /:~
+} ///:~
