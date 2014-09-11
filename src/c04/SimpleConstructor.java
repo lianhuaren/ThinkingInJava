@@ -13,4 +13,9 @@ public class SimpleConstructor {
 		for (int i = 0; i < 10; i++)
 			new Rock(i);
 	}
-} // /:~
+	
+	// Seems the following code will not be executed.
+	SimpleConstructor(){
+		System.out.println("SimpleConstructor");
+	}
+} ///:~
