@@ -58,4 +58,4 @@ public class Garbage {
 		if (args[0].equals("after"))
 			System.runFinalizersOnExit(true);
 	}
-} // /:~
+} ///:~

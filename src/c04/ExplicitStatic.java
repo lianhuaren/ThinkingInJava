@@ -34,4 +34,4 @@ public class ExplicitStatic {
 
 	static Cups x = new Cups(); // (2)
 	static Cups y = new Cups(); // (2)
-} // /:~
+} ///:~

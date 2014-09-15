@@ -9,4 +9,4 @@ public class ArrayInit {
 		Integer[] b = new Integer[] { new Integer(1), new Integer(2),
 				new Integer(3), };
 	}
-} // /:~
+} ///:~

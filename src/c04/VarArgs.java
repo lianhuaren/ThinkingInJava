@@ -19,4 +19,4 @@ public class VarArgs {
 		f(new Object[] { "one", "two", "three" });
 		f(new Object[] { new A(), new A(), new A() });
 	}
-} // /:~
+} ///:~
