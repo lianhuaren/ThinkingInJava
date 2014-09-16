@@ -1,18 +1,23 @@
 package c05;
 
-public class ex1 {
+public class Ex1 {
 
 	/**
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		Bear XiaoBei = new Bear();
+		System.out.println("Color: " + XiaoBei.color);
+		System.out.println("Legs: " + XiaoBei.legs);
+		XiaoBei.setSalary(111);
+		System.out.println("Salary: " + XiaoBei.getSalary());
+		System.out.println("Weight: " + XiaoBei.weight);
 
 	}
 
 }
 
-class bear {
+class Bear {
 	public int legs = 4;
 	private int salary = 0;
 	private int balance = 0;

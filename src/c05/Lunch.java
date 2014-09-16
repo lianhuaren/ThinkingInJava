@@ -6,6 +6,7 @@ package c05;
 //with private constructors:
 class Soup {
 	private Soup() {
+		System.out.println("Soup()");
 	}
 
 	// (1) Allow creation via static method:
@@ -23,6 +24,7 @@ class Soup {
 	}
 
 	public void f() {
+		System.out.println("f()");
 	}
 }
 
@@ -34,6 +36,7 @@ class Sandwich { // Uses Lunch
 
 // Only one public class allowed per file:
 public class Lunch {
+//	public static void main(String[] args) {
 	void test() {
 		// Can't do this! Private constructor:
 		// ! Soup priv1 = new Soup();
@@ -41,4 +44,4 @@ public class Lunch {
 		Sandwich f1 = new Sandwich();
 		Soup.access().f();
 	}
-} // /:~
+} ///:~

@@ -14,4 +14,4 @@ public class ChocolateChip extends Cookie {
 		ChocolateChip x = new ChocolateChip();
 		x.foo(); // Can't access foo
 	}
-} // /:~
+} ///:~

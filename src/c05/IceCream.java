@@ -8,7 +8,7 @@ class Sundae {
 	}
 
 	static Sundae makeASundae() {
-		return new Sundae();
+		return new Sundae();		
 	}
 }
 
@@ -17,4 +17,4 @@ public class IceCream {
 		// ! Sundae x = new Sundae();
 		Sundae x = Sundae.makeASundae();
 	}
-} // /:~
+} ///:~

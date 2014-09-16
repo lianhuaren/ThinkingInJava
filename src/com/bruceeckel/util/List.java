@@ -6,4 +6,4 @@ public class List {
 	public List() {
 		System.out.println("com.bruceeckel.util.List");
 	}
-} // /:~
+} ///:~

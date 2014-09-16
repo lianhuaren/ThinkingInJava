@@ -11,4 +11,4 @@ public class Dinner {
 		Cookie x = new Cookie();
 		// ! x.foo(); // Can't access
 	}
-} // /:~
+} ///:~
