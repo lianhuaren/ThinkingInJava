@@ -38,4 +38,4 @@ public class Beetle extends Insect {
 		prt("Beetle constructor");
 		Beetle b = new Beetle();
 	}
-} // /:~
+} ///:~

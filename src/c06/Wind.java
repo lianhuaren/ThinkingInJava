@@ -6,6 +6,7 @@ import java.util.*;
 
 class Instrument {
 	public void play() {
+		System.out.println("Instrument.play()");
 	}
 
 	static void tune(Instrument i) {
@@ -21,4 +22,4 @@ class Wind extends Instrument {
 		Wind flute = new Wind();
 		Instrument.tune(flute); // Upcasting
 	}
-} // /:~
+} ///:~

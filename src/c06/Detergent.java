@@ -57,4 +57,4 @@ public class Detergent extends Cleanser {
 		System.out.println("Testing base class:");
 		Cleanser.main(args);
 	}
-} // /:~
+} ///:~

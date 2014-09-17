@@ -35,4 +35,4 @@ public class SprinklerSystem {
 		SprinklerSystem x = new SprinklerSystem();
 		x.print();
 	}
-} // /:~
+} ///:~

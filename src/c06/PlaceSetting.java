@@ -67,4 +67,4 @@ public class PlaceSetting extends Custom {
 	public static void main(String[] args) {
 		PlaceSetting x = new PlaceSetting(9);
 	}
-} // /:~
+} ///:~

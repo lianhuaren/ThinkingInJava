@@ -32,4 +32,4 @@ class Hide {
 		b.doh(1.0f);
 		b.doh(new Milhouse());
 	}
-} // /:~
+} ///:~

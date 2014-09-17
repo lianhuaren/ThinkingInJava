@@ -23,6 +23,9 @@ class BlankFinal {
 	}
 
 	public static void main(String[] args) {
-		BlankFinal bf = new BlankFinal();
+		BlankFinal bf1 = new BlankFinal();
+		BlankFinal bf2 = new BlankFinal(2);
+		System.out.println(bf1.j);
+		System.out.println(bf2.j);
 	}
-} // /:~
+} ///:~

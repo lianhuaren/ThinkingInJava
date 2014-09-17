@@ -35,4 +35,4 @@ public class Orc extends Villain {
 	public void change(int x) {
 		set(x);
 	}
-} // /:~
+} ///:~
