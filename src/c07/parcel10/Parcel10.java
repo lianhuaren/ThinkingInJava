@@ -39,8 +39,12 @@ public class Parcel10 {
 		return new PContents();
 	}
 
+//	In main( ), no object of Parcel10 is necessary; instead you use the normal syntax for
+//	selecting a static member to call the methods that return handles to Contents and
+//	Destination.
+	
 	public static void main(String[] args) {
 		Contents c = cont();
 		Destination d = dest("Tanzania");
 	}
-} // /:~
+} ///:~
